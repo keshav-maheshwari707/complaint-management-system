@@ -1,0 +1,17 @@
+
+body {
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.toggle-link {
+  cursor: pointer;
+  color: #0d6efd;
+}
